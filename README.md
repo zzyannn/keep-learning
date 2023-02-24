@@ -4,8 +4,6 @@ Record my learning.
 
 ## TODO
 
-### JavaScript tools library
-
 - [ ] shallowCopy
 - [ ] deepCopy
 - [ ] throttle
